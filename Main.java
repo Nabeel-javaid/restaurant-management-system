@@ -177,6 +177,7 @@ public class Main {
 									foodNum=input.nextInt()-1;
 									res.update(restNum, foodNum);
 								}
+								//is it working
 								if (CH3 == 3) {
 									int restNum;
 									int foodNum;
